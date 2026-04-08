@@ -4,7 +4,7 @@
 
 local json = require("dkjson")
 
-local BASE_URL = "https://api.authvaultix.com/api/1.2/"
+local BASE_URL = "https://authvaultix.com/api/1.0/"
 
 local AuthVaultix = {
     name = "",

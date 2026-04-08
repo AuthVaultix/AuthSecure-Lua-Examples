@@ -1,7 +1,7 @@
 local json = require "json"
 
 local AuthVaultix = {}
-AuthVaultix.BASE_URL = "https://api.authvaultix.com/api/1.2/"
+AuthVaultix.BASE_URL = "https://authvaultix.com/api/1.0/"
 AuthVaultix.sessionid = nil
 AuthVaultix.name = ""
 AuthVaultix.ownerid = ""
