@@ -101,4 +101,3 @@ This project is intended for use with the AuthVaultix.com authentication service
 
 ---
 
-**Developed with ?? by [Teamdeveloperxd](https://github.com/Teamdeveloperxd)**
